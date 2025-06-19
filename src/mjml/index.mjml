@@ -15,7 +15,8 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="42px" font-weight="300"/>
-      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="35px" font-weight="300"/>
+      <mj-class name="T22-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="22px" line-height="35px" font-weight="300"/>
+      <mj-class name="T20-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="25px" font-weight="500"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
@@ -45,18 +46,20 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
-      <mj-column>
-        <mj-text>Uitbreiding AV Line Switches</mj-text>
-        <mj-text>NETGEAR breidt haar Pro AV switches-lijn voor audio-en videotoepassingen uit met 6 nieuwe modellen. Functionaliteiten zoals out-of-box AV gecombineerd met nieuwe gebruikersinterface en gotere PoE-capaciteit zorgen voor eenvoudige implementatie en snel operationeel krijgen van AV-netwerken</mj-text>
+      <mj-column padding="20px 30px 10px 20px">
+        <mj-text padding="0" padding-bottom="15px" mj-class="T20-500 cB" letter-spacing="1.5px">Uitbreiding AV Line Switches</mj-text>
+        <mj-text padding="0">NETGEAR breidt haar Pro AV switches-lijn voor audio-en videotoepassingen uit met 6 nieuwe modellen. Functionaliteiten zoals out-of-box AV gecombineerd met nieuwe gebruikersinterface en gotere PoE-capaciteit zorgen voor eenvoudige implementatie en snel operationeel krijgen van AV-netwerken</mj-text>
         <mj-button>Meer Informatie</mj-button>
       </mj-column>
       <mj-column>
         <mj-image padding="0" width="352px" src="./images/netgearOld.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>Nieuwe M4250-Switches</mj-text>
+    <mj-section padding="0" mj-class="bgW">
+      <mj-column padding="10px" width="100%" mj-class="bgB">
+        <mj-text padding="0" mj-class="T22-300 cTW" letter-spacing="1px">Nieuwe M4250-Switches</mj-text>
+      </mj-column>
+      <mj-column width="100%"> 
         <mj-table>
           <tr>
             <td>model</td>
@@ -116,11 +119,11 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
-      <mj-column>
-        <mj-text>NETGEAR vergroot bereik in de professionele AV-markt door samenwerking met AED Group</mj-text>
-        <mj-text>NETGEAR, marktleider op het gebied van netwerkproducten voor consumenten, bedrijven en serviceproviders, is een samenwerking aangegaan met AED Group voor de Benelux. AED Group is leverancier van totaaloplossingen in de audiovisuele industrie. Met de samenwerking verbetert en vergroot NETGEAR zijn bereik in de professionele AV-markt in België, Nederland en Luxemburg.</mj-text>
-        <mj-text>Wil je meer weten over deze samenwerking neem contact met ons op via</mj-text>
-        <mj-text>nl.rapidresponse@netgear.com</mj-text>
+      <mj-column padding="20px 30px 10px 20px">
+        <mj-text padding="0" padding-bottom="1.5px" mj-class="T20-500 cB" letter-spacing="1.5px">NETGEAR vergroot bereik in de professionele AV-markt door samenwerking met AED Group</mj-text>
+        <mj-text padding="0">NETGEAR, marktleider op het gebied van netwerkproducten voor consumenten, bedrijven en serviceproviders, is een samenwerking aangegaan met AED Group voor de Benelux. AED Group is leverancier van totaaloplossingen in de audiovisuele industrie. Met de samenwerking verbetert en vergroot NETGEAR zijn bereik in de professionele AV-markt in België, Nederland en Luxemburg.</mj-text>
+        <mj-text padding="0">Wil je meer weten over deze samenwerking neem contact met ons op via</mj-text>
+        <mj-text padding="0">nl.rapidresponse@netgear.com</mj-text>
       </mj-column>
       <mj-column>
         <mj-image padding="0" width="352px" src="./images/smallAEDdisplay.jpg" alt=""/>
