@@ -1,0 +1,147 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>NETGEAR Insider : WiFi Just Got Faster</mj-title>
+    <mj-font name="Source Sans 3" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap"></mj-font>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="42px" font-weight="300"/>
+      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="35px" font-weight="300"/>
+      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
+      <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
+      <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 10px" background-color="#73389B" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-class name="cT1" color="#2c262d"/>
+      <mj-class name="bgT1" background-color="#2c262d"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="bg0" background-color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cB" color="#73389B"/>
+      <mj-class name="bgB" background-color="#73389B"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f1f0f0" width="700px">
+    <mj-section padding="24px 30px" mj-class="bgT1">
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" padding="0" width="145px" src="./images/logoNetgearWhite.png" alt="logo Netgear en blanc"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/largeHeader.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Uitbreiding AV Line Switches</mj-text>
+        <mj-text>NETGEAR breidt haar Pro AV switches-lijn voor audio-en videotoepassingen uit met 6 nieuwe modellen. Functionaliteiten zoals out-of-box AV gecombineerd met nieuwe gebruikersinterface en gotere PoE-capaciteit zorgen voor eenvoudige implementatie en snel operationeel krijgen van AV-netwerken</mj-text>
+        <mj-button>Meer Informatie</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/netgearOld.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Nieuwe M4250-Switches</mj-text>
+        <mj-table>
+          <tr>
+            <td>model</td>
+            <td>part number</td>
+            <td>total ports</td>
+            <td>poe budget</td>
+            <td>optional avb licence part number</td>
+          </tr>
+          <tr>
+            <td>M4250-26G4F-PoE+</td>
+            <td>GSM4230P</td>
+            <td>30</td>
+            <td>300W</td>
+            <td>AVB4230P</td>
+          </tr>
+          <tr>
+            <td>M4250-26G4XF-PoE+</td>
+            <td>GSM4230PX</td>
+            <td>30</td>
+            <td>480W</td>
+            <td>AVB4230PX</td>
+          </tr>
+          <tr>
+            <td>M4250-26G4F-PoE++</td>
+            <td>GSM4230UP</td>
+            <td>30</td>
+            <td>1440W</td>
+            <td>AVB4230UP</td>
+          </tr>
+          <tr> 
+            <td>M4250-40G8F-PoE+</td>
+            <td>GSM4248P</td>
+            <td>48</td>
+            <td>480W</td>
+            <td>AVB4248P</td>
+          </tr>
+          <tr>
+            <td>M4250-40G8XF-PoE+</td>
+            <td>GSM4248PX</td>
+            <td>48</td>
+            <td>960W</td>
+            <td>AVB4248PX</td>
+          </tr>
+          <tr>
+            <td>M4250-40G8XF-PoE++</td>
+            <td>GSM4248UX</td>
+            <td>48</td>
+            <td>2,880W</td>
+            <td>AVB4248UX</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/largeAVLine.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>NETGEAR vergroot bereik in de professionele AV-markt door samenwerking met AED Group</mj-text>
+        <mj-text>NETGEAR, marktleider op het gebied van netwerkproducten voor consumenten, bedrijven en serviceproviders, is een samenwerking aangegaan met AED Group voor de Benelux. AED Group is leverancier van totaaloplossingen in de audiovisuele industrie. Met de samenwerking verbetert en vergroot NETGEAR zijn bereik in de professionele AV-markt in België, Nederland en Luxemburg.</mj-text>
+        <mj-text>Wil je meer weten over deze samenwerking neem contact met ons op via</mj-text>
+        <mj-text>nl.rapidresponse@netgear.com</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/smallAEDdisplay.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Neem contact met ons op</mj-text>
+        <mj-text> <img src="./images/iconPhone.png" alt=""/> 
+          +31 182 587 000
+        </mj-text>
+        <mj-text><img src="./images/iconMail.png" alt=""/> 
+          nl.rapidresponse@netgear.com
+        </mj-text>
+        <mj-text> <img src="./images/iconLieu.png" alt=""/>NETGEAR Benelux, Louis Braillelaan 80, 2719 EK, Zoetermeer The Netherlands</mj-text>
+        <mj-social>
+          <mj-social-element src="./images/iconFacebook.png" alt="" href=""></mj-social-element>
+          <mj-social-element src="./images/iconTwitter.png" alt="" href=""></mj-social-element>
+          <mj-social-element src="./images/iconLinkedin.png" alt="" href=""></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
