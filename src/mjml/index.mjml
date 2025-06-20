@@ -17,6 +17,7 @@
       <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="42px" font-weight="300"/>
       <mj-class name="T22-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="22px" line-height="35px" font-weight="300"/>
       <mj-class name="T20-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="25px" font-weight="500"/>
+      <mj-class name="T15-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="300"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
@@ -61,56 +62,56 @@
       <mj-column padding="10px" width="100%" mj-class="bgB">
         <mj-text padding="0" mj-class="T22-300 cTW" letter-spacing="1px">Nieuwe M4250-Switches</mj-text>
       </mj-column>
-      <mj-column width="100%"> 
-        <mj-table>
+      <mj-column width="100%" padding="20px"> 
+        <mj-table mj-class="T15-300 cT0">
           <tr>
-            <td>model</td>
-            <td>part number</td>
-            <td>total ports</td>
-            <td>poe budget</td>
-            <td>optional avb licence part number</td>
+            <td style="padding:5px;text-align:center;vertical-align:bottom;text-transform:uppercase;letter-spacing:1px;"><strong>model</strong></td>
+            <td style="padding:5px;text-align:center;vertical-align:bottom;text-transform:uppercase;letter-spacing:1px;"><strong>part number</strong></td>
+            <td style="padding:5px;text-align:center;vertical-align:bottom;text-transform:uppercase;letter-spacing:1px;"><strong>total ports</strong></td>
+            <td style="padding:5px;text-align:center;vertical-align:bottom;text-transform:uppercase;letter-spacing:1px;"><strong>poe budget</strong></td>
+            <td style="padding:5px;text-align:center;vertical-align:bottom;text-transform:uppercase;letter-spacing:1px"><strong>optional avb licence part number</strong></td>
           </tr>
-          <tr>
-            <td>M4250-26G4F-PoE+</td>
-            <td>GSM4230P</td>
-            <td>30</td>
-            <td>300W</td>
-            <td>AVB4230P</td>
+          <tr style="border: 1px dashed #333333;background-color:#f1f1f1;">
+            <td width="28%" style="padding:5px;border-right:1px dashed #333333;"><strong>M4250-26G4F-PoE+</strong></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;"><a style="color:#000000;" href="#">GSM4230P</a></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">30</td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">300W</td>
+            <td width="18%" style="padding:5px;text-align:center;">AVB4230P</td>
           </tr>
-          <tr>
-            <td>M4250-26G4XF-PoE+</td>
-            <td>GSM4230PX</td>
-            <td>30</td>
-            <td>480W</td>
-            <td>AVB4230PX</td>
+          <tr style="border:1px dashed #333333;">
+            <td width="28%" style="padding:5px;border-right:1px dashed #333333;"><strong>M4250-26G4XF-PoE+</strong></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;"><a style="color:#000000;" href="#">GSM4230PX</a></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">30</td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">480W</td>
+            <td width="18%" style="padding:5px;text-align:center;">AVB4230PX</td>
           </tr>
-          <tr>
-            <td>M4250-26G4F-PoE++</td>
-            <td>GSM4230UP</td>
-            <td>30</td>
-            <td>1440W</td>
-            <td>AVB4230UP</td>
+          <tr style="border:1px dashed #333333;background-color:#f1f1f1;">
+            <td width="28%" style="padding:5px;border-right:1px dashed #333333;"><strong>M4250-26G4F-PoE++</strong></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;"><a style="color:#000000;" href="#">GSM4230UP</a></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">30</td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">1440W</td>
+            <td width="18%" style="padding:5px;text-align:center">AVB4230UP</td>
           </tr>
-          <tr> 
-            <td>M4250-40G8F-PoE+</td>
-            <td>GSM4248P</td>
-            <td>48</td>
-            <td>480W</td>
-            <td>AVB4248P</td>
+          <tr style="border:1px dashed #333333;">
+            <td width="28%" style="padding:5px;border-right:1px dashed #333333;"><strong>M4250-40G8F-PoE+</strong></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;"><a style="color:#000000;" href="#">GSM4248P</a></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">48</td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">480W</td>
+            <td width="18%" style="padding:5px;text-align:center;">AVB4248P</td>
           </tr>
-          <tr>
-            <td>M4250-40G8XF-PoE+</td>
-            <td>GSM4248PX</td>
-            <td>48</td>
-            <td>960W</td>
-            <td>AVB4248PX</td>
+          <tr style="border:1px dashed #333333;background-color:#f1f1f1;">
+            <td width="28%" style="padding:5px;border-right:1px dashed #333333;"><strong>M4250-40G8XF-PoE+</strong></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;"><a style="color:#000000;" href="#">GSM4248PX</a></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">48</td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">960W</td>
+            <td width="18%" style="padding:5px;text-align:center;">AVB4248PX</td>
           </tr>
-          <tr>
-            <td>M4250-40G8XF-PoE++</td>
-            <td>GSM4248UX</td>
-            <td>48</td>
-            <td>2,880W</td>
-            <td>AVB4248UX</td>
+          <tr style="border:1px dashed #333333;">
+            <td width="28%" style="padding:5px;border-right:1px dashed #333333;"><strong>M4250-40G8XF-PoE++</strong></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;"><a style="color:#000000;" href="#">GSM4248UX</a></td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">48</td>
+            <td width="18%" style="padding:5px;text-align:center;border-right:1px dashed #333333;">2,880W</td>
+            <td width="18%" style="padding:5px;text-align:center;">AVB4248UX</td>
           </tr>
         </mj-table>
       </mj-column>
