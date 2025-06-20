@@ -16,6 +16,7 @@ mjml
             mj-class(name='T35-300' font-family='"Source Sans 3", Arial, Helvetica, sans-serif' font-style="normal" font-size='35px' line-height='42px' font-weight='300')/
             mj-class(name='T22-300' font-family='"Source Sans 3", Arial, Helvetica, sans-serif' font-style="normal" font-size='22px' line-height='35px' font-weight='300')/
             mj-class(name='T20-500' font-family='"Source Sans 3", Arial, Helvetica, sans-serif' font-style="normal" font-size='20px' line-height='25px' font-weight='500')/
+            mj-class(name='T18-500' font-family='"Source Sans 3", Arial, Helvetica, sans-serif' font-style="normal" font-size='18px' line-height='17px' font-weight='500')/
             mj-class(name='T15-300' font-family='"Source Sans 3", Arial, Helvetica, sans-serif' font-style="normal" font-size='15px' line-height='20px' font-weight='300')/
             mj-class(name='T14-400' font-family='"Source Sans 3", Arial, Helvetica, sans-serif' font-style="normal" font-size='14px' line-height='20px' font-weight='400')/
             mj-class(name='T12-400' font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size='12px' line-height='15px' font-weight='400')/
@@ -40,11 +41,17 @@ mjml
         block header
             include ../includes/_header
         //- bloc produits
+        mj-section(background-color="#E7E9EC" padding="0")
+            mj-column
+                mj-spacer(height="3px") 
         block prods
             include ../includes/_prods
         //- bloc argumentaire
         block arg
             include ../includes/_arg
         //- bloc footer
+        mj-section(background-color="#E7E9EC" padding="0")
+            mj-column
+                mj-spacer(height="3px")
         block footer
             include ../includes/_footer

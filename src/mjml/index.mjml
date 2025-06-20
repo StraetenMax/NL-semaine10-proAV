@@ -17,6 +17,7 @@
       <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="42px" font-weight="300"/>
       <mj-class name="T22-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="22px" line-height="35px" font-weight="300"/>
       <mj-class name="T20-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="25px" font-weight="500"/>
+      <mj-class name="T18-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="17px" font-weight="500"/>
       <mj-class name="T15-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="20px" font-weight="300"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="20px" font-weight="400"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
@@ -56,6 +57,11 @@
       </mj-column>
       <mj-column>
         <mj-image padding="0" width="352px" src="./images/netgearOld.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E7E9EC" padding="0">
+      <mj-column>
+        <mj-spacer height="3px"> </mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
@@ -132,20 +138,25 @@
         <mj-image padding="0" width="352px" src="./images/smallAEDdisplay.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#E7E9EC" padding="0">
       <mj-column>
-        <mj-text>Neem contact met ons op</mj-text>
-        <mj-text> <img src="./images/iconPhone.png" alt=""/> 
-          +31 182 587 000
+        <mj-spacer height="3px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgW" padding="30px 28px 20px 31px">
+      <mj-column>
+        <mj-text align="center" padding="0" padding-bottom="28px" mj-class="T18-500 cT0">Neem contact met ons op</mj-text>
+        <mj-text align="center" padding="0" mj-class="T14-400 cT0"><img src="./images/iconPhone.png" alt=""/> 
+          &nbsp;&nbsp;+31 182 587 000
         </mj-text>
-        <mj-text><img src="./images/iconMail.png" alt=""/> 
-          nl.rapidresponse@netgear.com
+        <mj-text align="center" padding="0" mj-class="T14-400 cT0"><img src="./images/iconMail.png" alt=""/> 
+          &nbsp;&nbsp;nl.rapidresponse@netgear.com
         </mj-text>
-        <mj-text> <img src="./images/iconLieu.png" alt=""/>NETGEAR Benelux, Louis Braillelaan 80, 2719 EK, Zoetermeer The Netherlands</mj-text>
-        <mj-social>
-          <mj-social-element src="./images/iconFacebook.png" alt="" href=""></mj-social-element>
-          <mj-social-element src="./images/iconTwitter.png" alt="" href=""></mj-social-element>
-          <mj-social-element src="./images/iconLinkedin.png" alt="" href=""></mj-social-element>
+        <mj-text align="center" padding="0" padding-bottom="28px" mj-class="T14-400 cT0"><img src="./images/iconLieu.png" alt=""/>&nbsp;&nbsp;NETGEAR Benelux, Louis Braillelaan 80, 2719 EK, Zoetermeer The Netherlands</mj-text>
+        <mj-social mode="horizontal">
+          <mj-social-element icon-size="35px" src="./images/iconFacebook.png" alt="" href="https://facebook.com/netgearbnl"></mj-social-element>
+          <mj-social-element icon-size="35px" src="./images/iconTwitter.png" alt="" href="https://twitter.com/NETGEAR"></mj-social-element>
+          <mj-social-element icon-size="35px" src="./images/iconLinkedin.png" alt="" href="https://www.linkedin.com/company/netgear-nederland/"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
